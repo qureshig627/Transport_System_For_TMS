@@ -25,5 +25,5 @@ This is a full-stack web application built with PHP and MySQL that serves as a c
 
 ![Dashboard Screenshot](/Users/gulamdastagirqureshi/Documents/dashboard.png)
 ![Dashboard Screenshot](/Users/gulamdastagirqureshi/Documents/shipment.png)
-![Dashboard Screenshot](/Users/gulamdastagirqureshi/Documents/invoice.png)
+![Dashboard Screenshot](/Users/gulamdastagirqureshi/Documents/Invoice.png)
 ![Dashboard Screenshot](/Users/gulamdastagirqureshi/Documents/print.png)
