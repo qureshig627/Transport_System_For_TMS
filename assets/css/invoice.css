@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+
+.invoice-container {
+	max-width: 800px;
+	border: 1px solid #ddd;
+	padding: 20px;
+}
+
+.invoice-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 20px;
+}
+
+.invoice-header h1 {
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+
+.invoice-number {
+	font-size: 1.2rem;
+}
+
+.invoice-date {
+	font-size: 1.2rem;
+}
+
+.invoice-customer {
+	margin-bottom: 20px;
+}
+
+.invoice-customer h2 {
+	font-size: 1.5rem;
+	margin-bottom: 10px;
+}
+
+.customer-name {
+	font-size: 1.2rem;
+}
+
+.customer-email {
+	font-size:1.2rem
+}
+@media print {
+	.print  {display: none;}
+ }
+ 
