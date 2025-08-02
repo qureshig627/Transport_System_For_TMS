@@ -23,7 +23,7 @@ This is a full-stack web application built with PHP and MySQL that serves as a c
 
 ## Screenshots
 
-![Dashboard Screenshot](/Users/gulamdastagirqureshi/Documents/dashboard.png)
-![Dashboard Screenshot](/Users/gulamdastagirqureshi/Documents/shipment.png)
-![Dashboard Screenshot](/Users/gulamdastagirqureshi/Documents/Invoice.png)
-![Dashboard Screenshot](/Users/gulamdastagirqureshi/Documents/print.png)
+![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](shipment.png)
+![Dashboard Screenshot](invoice.png)
+![Dashboard Screenshot](print.png)
