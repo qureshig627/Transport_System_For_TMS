@@ -25,5 +25,5 @@ This is a full-stack web application built with PHP and MySQL that serves as a c
 
 ![Dashboard Screenshot](dashboard.png)
 ![Dashboard Screenshot](shipment.png)
-![Dashboard Screenshot](invoice.png)
+![Dashboard Screenshot](Invoice.png)
 ![Dashboard Screenshot](print.png)
